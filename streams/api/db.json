@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "yolo",
+      "description": "plz sub",
+      "id": 1
+    },
+    {
+      "title": "poplo",
+      "description": "this is polo",
+      "id": 2
+    },
+    {
+      "title": "YOLO",
+      "description": "This was made by me",
+      "userId": "100276562250044274356",
+      "id": 3
+    },
+    {
+      "title": "POLO",
+      "description": "HELLO",
+      "userId": "100276562250044274356",
+      "id": 4
+    }
+  ]
+}
